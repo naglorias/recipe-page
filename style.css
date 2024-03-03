@@ -81,7 +81,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1.44rem;
+  gap: 1rem;
 }
 
 .wrapper {
